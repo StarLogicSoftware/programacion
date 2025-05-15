@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="clase 1305"/>
+        <attribute name="authors" value="nicof"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-05-13 08:51:56 p.&#160;m."/>
+        <attribute name="created" value="bmljb2Y7TklDT0xBUzsyMDI1LTA1LTEzOzA4OjAwOjM1IHAuwqBtLjsyNjQy"/>
+        <attribute name="edited" value="bmljb2Y7TklDT0xBUzsyMDI1LTA1LTEzOzA4OjUxOjU2IHAuwqBtLjsxOzI3NTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="precio1, precio2, precio3, precio4, precioAuxiliar, contador" type="Integer" array="False" size=""/>
+            <input variable="precio1"/>
+            <input variable="precio2"/>
+            <input variable="precio3"/>
+            <input variable="precio4"/>
+            <for variable="contador" start="1" end="4" direction="inc" step="1">
+                <if expression="precio1 &gt; precio2">
+                    <then>
+                        <assign variable="precioAuxiliar" expression="precio2"/>
+                        <assign variable="precio2" expression="precio1"/>
+                        <assign variable="precio1" expression="precioAuxiliar"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="precio2 &gt; precio3">
+                    <then>
+                        <assign variable="precioAuxiliar" expression="precio3"/>
+                        <assign variable="precio3" expression="precio2"/>
+                        <assign variable="precio2" expression="precioAuxiliar"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="precio3 &gt; precio4">
+                    <then>
+                        <assign variable="precioAuxiliar" expression="precio4"/>
+                        <assign variable="precio4" expression="precio3"/>
+                        <assign variable="precio3" expression="precioAuxiliar"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="precio1 &amp; &quot; &quot; &amp; precio2 &amp; &quot; &quot; &amp; precio3 &amp; &quot; &quot; &amp; precio4" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
