@@ -77,5 +77,7 @@ do
 {
     // lineas a repetir
 } while (2 > 7);
+// Prestar atención a que luego del while() hay un ";"
 
 Console.WriteLine("aca termina todo");
+
