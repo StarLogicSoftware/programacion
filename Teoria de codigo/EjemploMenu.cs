@@ -1,5 +1,3 @@
-using System.ComponentModel;
-
 while (true)
 {
     Console.WriteLine("Programa de ejemplo de menu 2.0");
