@@ -1,4 +1,5 @@
-while (true)
+int opcion;
+do
 {
     Console.WriteLine("Programa de ejemplo de menu 2.0");
     Console.WriteLine("--------------------------------");
@@ -8,7 +9,7 @@ while (true)
     Console.WriteLine("3- salir");
     Console.WriteLine();
     Console.Write("Opcion elegida: ");
-    int opcion = int.Parse(Console.ReadLine());
+    opcion = int.Parse(Console.ReadLine());
 
 
     switch (opcion)
@@ -26,4 +27,7 @@ while (true)
             Console.WriteLine("Opción incorrecta, por favor intente de nuevo.");
             break;
     }
+
 }
+while(opcion != 3); 
+
