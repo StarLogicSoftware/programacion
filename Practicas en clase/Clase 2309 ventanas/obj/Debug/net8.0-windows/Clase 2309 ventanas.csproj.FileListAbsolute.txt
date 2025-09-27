@@ -1,0 +1,22 @@
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\bin\Debug\net8.0-windows\Clase 2309 ventanas.exe
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\bin\Debug\net8.0-windows\Clase 2309 ventanas.deps.json
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\bin\Debug\net8.0-windows\Clase 2309 ventanas.runtimeconfig.json
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\bin\Debug\net8.0-windows\Clase 2309 ventanas.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\bin\Debug\net8.0-windows\Clase 2309 ventanas.pdb
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\SegundaVentana.g.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas_MarkupCompile.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas_MarkupCompile.lref
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\SegundaVentana.baml
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.g.resources
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.AssemblyInfoInputs.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.AssemblyInfo.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.csproj.CoreCompileInputs.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\refint\Clase 2309 ventanas.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.pdb
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\Clase 2309 ventanas.genruntimeconfig.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 ventanas\obj\Debug\net8.0-windows\ref\Clase 2309 ventanas.dll

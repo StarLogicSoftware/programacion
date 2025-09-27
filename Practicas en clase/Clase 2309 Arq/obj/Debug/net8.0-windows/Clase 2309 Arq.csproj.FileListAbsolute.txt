@@ -1,0 +1,22 @@
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Clase 2309 Arq.exe
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Clase 2309 Arq.deps.json
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Clase 2309 Arq.runtimeconfig.json
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Clase 2309 Arq.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Clase 2309 Arq.pdb
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq_MarkupCompile.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq_MarkupCompile.lref
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.g.resources
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.AssemblyInfoInputs.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.AssemblyInfo.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.csproj.CoreCompileInputs.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\refint\Clase 2309 Arq.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.pdb
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.genruntimeconfig.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\ref\Clase 2309 Arq.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Vista\MostrarTurno.g.cs
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Vista\MostrarTurno.baml

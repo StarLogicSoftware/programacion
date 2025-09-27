@@ -1,0 +1,26 @@
+﻿<Window x:Class="Clase_2309_Arq.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clase_2309_Arq"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="23,16,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNombreTurno" HorizontalAlignment="Left" Margin="82,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Fecha" HorizontalAlignment="Left" Margin="23,47,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFechaTurno" HorizontalAlignment="Left" Margin="82,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAgendar" Content="Agendar" HorizontalAlignment="Left" Height="21" Margin="22,87,0,0" VerticalAlignment="Top" Width="168" Click="btnAgendar_Click"/>
+        <DataGrid x:Name="dtgTurnos" HorizontalAlignment="Left" Height="408" Margin="236,16,0,0" VerticalAlignment="Top" Width="554" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <GroupBox HorizontalAlignment="Left" Height="112" Header="Busqueda" Margin="10,174,0,0" VerticalAlignment="Top" Width="221">
+            <Grid>
+                <Label Content="Nombre" HorizontalAlignment="Left" Margin="16,11,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtNombreBusqueda" HorizontalAlignment="Left" Height="28" Margin="75,11,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="113"/>
+                <Button x:Name="btnBuscarCliente" Content="Buscar" HorizontalAlignment="Left" Height="31" Margin="43,48,0,0" VerticalAlignment="Top" Width="100" Click="btnBuscarCliente_Click"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="btnMarcarTurnoCompletado" Content="Marcar turno completado" HorizontalAlignment="Left" Height="24" Margin="22,113,0,0" VerticalAlignment="Top" Width="168" Click="btnMarcarTurnoCompletado_Click"/>
+
+    </Grid>
+</Window>
