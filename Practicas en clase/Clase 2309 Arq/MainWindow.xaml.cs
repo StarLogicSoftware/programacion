@@ -28,7 +28,8 @@ namespace Clase_2309_Arq
 
         private void btnAgendar_Click(object sender, RoutedEventArgs e)
         {
-            bool reservaCorrecta = controladorTurnos.ReservarTurno(txtNombreTurno.Text, txtFechaTurno.Text);
+            bool reservaCorrecta = controladorTurnos.ReservarTurno(txtNombreTurno.Text, dtpFecha.Value.Value);
+            
 
             if (reservaCorrecta)
             {
@@ -67,8 +68,6 @@ namespace Clase_2309_Arq
             else
             {
                 MessageBoxResult acepta = MessageBox.Show("Desea marcar este turno como asistido?", "Cuidado", MessageBoxButton.OKCancel);
-
-                
 
                 controladorTurnos.MarcarTurnoComoCompletado(turnoDataGrid);
                 dtgTurnos.ItemsSource = null;

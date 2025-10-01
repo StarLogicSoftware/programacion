@@ -11,9 +11,9 @@ namespace Clase_2309_Arq.Controlador
     {
         public List<Turno> turnosActivos = new List<Turno>();
 
-        public bool ReservarTurno(string nombre, string fecha)
+        public bool ReservarTurno(string nombre, DateTime fecha)
         {
-            if(string.IsNullOrEmpty(nombre) || string.IsNullOrEmpty(fecha))
+            if(string.IsNullOrEmpty(nombre) || fecha < DateTime.Now)
             {
                 return false;
             }
@@ -22,7 +22,6 @@ namespace Clase_2309_Arq.Controlador
                 Turno turnoReservar = new Turno();
                 turnoReservar.NombreCliente = nombre;
                 turnoReservar.FechaTurno = fecha;
-                turnoReservar.Asistio = false;
 
                 turnosActivos.Add(turnoReservar);
 

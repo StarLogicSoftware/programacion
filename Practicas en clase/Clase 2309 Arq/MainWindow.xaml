@@ -3,9 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         xmlns:local="clr-namespace:Clase_2309_Arq"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="923" Width="800">
     <Grid>
         <Label Content="Nombre" HorizontalAlignment="Left" Margin="23,16,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtNombreTurno" HorizontalAlignment="Left" Margin="82,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
@@ -16,11 +17,11 @@
         <GroupBox HorizontalAlignment="Left" Height="112" Header="Busqueda" Margin="10,174,0,0" VerticalAlignment="Top" Width="221">
             <Grid>
                 <Label Content="Nombre" HorizontalAlignment="Left" Margin="16,11,0,0" VerticalAlignment="Top"/>
-                <TextBox x:Name="txtNombreBusqueda" HorizontalAlignment="Left" Height="28" Margin="75,11,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="113"/>
+                <TextBox x:Name="txtNombreBusqueda" HorizontalAlignment="Left" Height="28" Margin="75,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113"/>
                 <Button x:Name="btnBuscarCliente" Content="Buscar" HorizontalAlignment="Left" Height="31" Margin="43,48,0,0" VerticalAlignment="Top" Width="100" Click="btnBuscarCliente_Click"/>
             </Grid>
         </GroupBox>
         <Button x:Name="btnMarcarTurnoCompletado" Content="Marcar turno completado" HorizontalAlignment="Left" Height="24" Margin="22,113,0,0" VerticalAlignment="Top" Width="168" Click="btnMarcarTurnoCompletado_Click"/>
-
+        <xctk:DateTimePicker x:Name="dtpFecha" Format="Custom" FormatString="dd/MM/yyyy HH:mm" Margin="10,291,569,0" Height="55" VerticalAlignment="Top"/>
     </Grid>
 </Window>

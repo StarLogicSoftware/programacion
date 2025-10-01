@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="MostrarTurno" Height="450" Width="800">
     <Grid>
-        <Label x:Name="lblCliente" Content="Label" HorizontalAlignment="Left" Height="50" Margin="272,98,0,0" VerticalAlignment="Top" Width="202" FontSize="16"/>
-        <Label x:Name="lblFecha" Content="Label" HorizontalAlignment="Left" Height="50" Margin="272,195,0,0" VerticalAlignment="Top" Width="202" FontSize="16"/>
+        <Label x:Name="lblCliente" Content="Label" HorizontalAlignment="Left" Height="50" Margin="609,320,0,0" VerticalAlignment="Top" Width="202" FontSize="16"/>
+        <Label x:Name="lblFecha" Content="Label" HorizontalAlignment="Left" Height="50" Margin="588,370,0,0" VerticalAlignment="Top" Width="202" FontSize="16"/>
 
     </Grid>
 </Window>

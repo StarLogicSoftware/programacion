@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\nicof\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgExtended_Wpf_Toolkit Condition=" '$(PkgExtended_Wpf_Toolkit)' == '' ">C:\Users\nicof\.nuget\packages\extended.wpf.toolkit\5.0.0</PkgExtended_Wpf_Toolkit>
+  </PropertyGroup>
 </Project>

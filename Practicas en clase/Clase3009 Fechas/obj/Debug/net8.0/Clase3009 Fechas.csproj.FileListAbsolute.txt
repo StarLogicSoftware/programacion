@@ -1,0 +1,14 @@
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\bin\Debug\net8.0\Clase3009 Fechas.exe
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\bin\Debug\net8.0\Clase3009 Fechas.deps.json
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\bin\Debug\net8.0\Clase3009 Fechas.runtimeconfig.json
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\bin\Debug\net8.0\Clase3009 Fechas.dll
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\bin\Debug\net8.0\Clase3009 Fechas.pdb
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.AssemblyInfoInputs.cache
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.AssemblyInfo.cs
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.csproj.CoreCompileInputs.cache
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.dll
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\refint\Clase3009 Fechas.dll
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.pdb
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\Clase3009 Fechas.genruntimeconfig.cache
+C:\Users\nicof\source\repos\Demostracion\Clase3009 Fechas\obj\Debug\net8.0\ref\Clase3009 Fechas.dll

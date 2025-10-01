@@ -20,3 +20,22 @@ C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows
 C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\ref\Clase 2309 Arq.dll
 C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Vista\MostrarTurno.g.cs
 C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Vista\MostrarTurno.baml
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 2309 Arq.csproj.AssemblyReference.cache
+C:\Users\nicof\source\repos\Demostracion\Clase 2309 Arq\obj\Debug\net8.0-windows\Clase 23.6292B882.Up2Date

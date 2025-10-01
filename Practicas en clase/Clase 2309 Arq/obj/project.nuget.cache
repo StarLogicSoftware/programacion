@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "99J+4LefZrU=",
+  "dgSpecHash": "qnHYCW76YHI=",
   "success": true,
   "projectFilePath": "C:\\Users\\nicof\\source\\repos\\Demostracion\\Clase 2309 Arq\\Clase 2309 Arq.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nicof\\.nuget\\packages\\extended.wpf.toolkit\\5.0.0\\extended.wpf.toolkit.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
