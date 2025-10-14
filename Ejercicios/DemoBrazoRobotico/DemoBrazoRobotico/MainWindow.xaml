@@ -1,0 +1,89 @@
+﻿<Window x:Class="DemoBrazoRobotico.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoBrazoRobotico"
+        mc:Ignorable="d"
+        Title="ControlBot - Proyecto intercursos - Centro de Innovación" Height="450" Width="800">
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- ==== Controles superiores ==== -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Top" Margin="0,0,0,10">
+
+            <!-- Slider de velocidad -->
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,0,20,0">
+                <TextBlock Text="Velocidad:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <Slider x:Name="sliderVelocidad" Minimum="0" Maximum="100" Width="150" Value="50"/>
+                <TextBlock Text="{Binding ElementName=sliderVelocidad, Path=Value, StringFormat='{}{0:F0}%'}"
+                           VerticalAlignment="Center" Margin="5,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="Listar Puertos" Width="100" Margin="5" Click="ListarPuertos_Click"/>
+                <ComboBox x:Name="comboPuertos" Width="100" Margin="5"/>
+                <Button Content="Conectar" Width="100" Margin="5" Click="Conectar_Click"/>
+                <Button Content="Desconectar" Width="100" Margin="5" Click="Desconectar_Click"/>
+            </StackPanel>
+
+        </StackPanel>
+
+        <!-- ==== Controles de motores y mensajes ==== -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- === Controles de motores === -->
+            <StackPanel Grid.Column="0">
+                <!-- MOTOR 1 -->
+                <GroupBox Header="Motor 1" Margin="0,10">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Content="Adelante" Width="100" Margin="5"
+                                PreviewMouseLeftButtonDown="Motor1Adelante_Presionado"
+                                PreviewMouseLeftButtonUp="Motor1_Soltado"/>
+                        <Button Content="Atrás" Width="100" Margin="5"
+                                PreviewMouseLeftButtonDown="Motor1Atras_Presionado"
+                                PreviewMouseLeftButtonUp="Motor1_Soltado"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- MOTOR 2 -->
+                <GroupBox Header="Motor 2" Margin="0,10">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Content="Adelante" Width="100" Margin="5"
+                                PreviewMouseLeftButtonDown="Motor2Adelante_Presionado"
+                                PreviewMouseLeftButtonUp="Motor2_Soltado"/>
+                        <Button Content="Atrás" Width="100" Margin="5"
+                                PreviewMouseLeftButtonDown="Motor2Atras_Presionado"
+                                PreviewMouseLeftButtonUp="Motor2_Soltado"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <!-- MOTOR 3 -->
+                <GroupBox Header="Motor 3" Margin="0,10">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Content="Adelante" Width="100" Margin="5"
+                                PreviewMouseLeftButtonDown="Motor3Adelante_Presionado"
+                                PreviewMouseLeftButtonUp="Motor3_Soltado"/>
+                        <Button Content="Atrás" Width="100" Margin="5"
+                                PreviewMouseLeftButtonDown="Motor3Atras_Presionado"
+                                PreviewMouseLeftButtonUp="Motor3_Soltado"/>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+
+            <!-- === Mensajes recibidos === -->
+            <GroupBox Header="Mensajes" Grid.Column="1" Margin="10,0,0,0">
+                <ListBox x:Name="listMensajes"/>
+            </GroupBox>
+
+        </Grid>
+    </Grid>
+</Window>
